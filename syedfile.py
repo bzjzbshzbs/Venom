@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import subprocess
 import datetime
 
-TOKEN = 'YOUR_BOT_TOKEN_HERE'
+TOKEN = '7716021318:AAFg6FyIBymPllIdzi6QnYq7VbYMnaB0CVM'
 UPI_ID = 'eibad@slice'
 
 # Temporary in-memory balance system
